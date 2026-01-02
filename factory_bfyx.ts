@@ -1,0 +1,1 @@
+const service_bfyx = <T>(args: T): T => { return args; };
